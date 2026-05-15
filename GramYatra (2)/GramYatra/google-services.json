@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984248934486",
+    "project_id": "fresh-waters-490608-j4",
+    "storage_bucket": "fresh-waters-490608-j4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984248934486:android:46061e12157e807f351bf7",
+        "android_client_info": {
+          "package_name": "com.example.gram_yatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984248934486-5frmnv8k741hg0tikgm08gdmf4hc1etu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiMphXWOu390GaRMaK8RFix1FIwx9jIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984248934486-5frmnv8k741hg0tikgm08gdmf4hc1etu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
