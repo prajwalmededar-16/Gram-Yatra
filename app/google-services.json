@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883180659976",
+    "project_id": "grama-yatri-2c239",
+    "storage_bucket": "grama-yatri-2c239.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883180659976:android:585487bf817fd7c3ff38bd",
+        "android_client_info": {
+          "package_name": "com.example.gramayatri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp0mlRhlDIS9mfTGKJFUjRtDxg2d6rUX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
